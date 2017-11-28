@@ -1,0 +1,10 @@
+1 Chocolate_Chip 2 
+1 Macademia 3 
+1 Oatmeal 4 
+2 Gummy_Bears 1.5 
+2 Watermelon 1.0 
+1 Snickerdoodle 5 
+2 Sour_Patch_Kids 0.4 
+1 Gluten_Free 6 
+2 Mike'n'Ikes 2.1 
+1 No_Bake 2 
